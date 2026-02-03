@@ -5,10 +5,11 @@
 # Proyecto de Diseño Biomédico 2
 
 **Integrantes del Equipo:**
-*   Estudiante 1
-*   Estudiante 2
-*   Estudiante 3
-*   ...
+*   Nelson Steven Santos Gonzalez
+*   Vanessa Guevara Uribe
+*   Santiago Guerra Calvachi
+*   Brandon Edilson Tamayo Quijano
+*   Nazly Vanessa Gonzalez Mina
 
 **Nombre del Proyecto:** [Escribir aquí el nombre]
 **Stakeholder/Cliente:** [Nombre de la empresa, institución o usuario]
