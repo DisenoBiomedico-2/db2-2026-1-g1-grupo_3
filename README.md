@@ -10,6 +10,7 @@
 *   Santiago Guerra Calvachi
 *   Brandon Edilson Tamayo Quijano
 *   Nazly Vanessa Gonzalez Mina
+*   Isabela Rodriguez Paz
 
 **Nombre del Proyecto:** [Escribir aquí el nombre]
 **Stakeholder/Cliente:** [Nombre de la empresa, institución o usuario]
