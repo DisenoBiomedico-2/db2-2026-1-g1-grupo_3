@@ -72,5 +72,4 @@ Este repositorio organiza el proyecto separando la evidencia documental de los a
 ---
 
 ## 📝 Resumen del Problema
-*(Editar esta sección en la Semana 2)*
-Describa brevemente en 1 párrafo cuál es la necesidad clínica o problema que están resolviendo.
+La problemática que abordará en el curso se centra en las condiciones ergonómicas de la práctica odontológica, donde los profesionales se ven obligados a mantener posturas estáticas y forzadas durante extensas jornadas de trabajo. Esta situación genera un alto riesgo de desarrollar trastornos musculoesqueléticos, fatiga crónica y problemas circulatorios, afectando directamente la salud, el bienestar y la productividad del equipo clínico. En consecuencia, se configura un escenario en el que la falta de estrategias ergonómicas adecuadas compromete tanto la calidad de vida de los odontólogos como la eficiencia y sostenibilidad de su desempeño profesional.
