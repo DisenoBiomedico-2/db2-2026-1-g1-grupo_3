@@ -12,7 +12,7 @@
 *   Nazly Vanessa Gonzalez Mina
 *   Isabela Rodriguez Paz
 
-**Nombre del Proyecto:** [Escribir aquí el nombre]
+**Nombre del Proyecto:** TME en zona lumbar (odontologos)
 **Stakeholder/Cliente:** [Nombre de la empresa, institución o usuario]
 
 ---
