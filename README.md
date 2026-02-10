@@ -13,7 +13,7 @@
 *   Isabela Rodriguez Paz
 
 **Nombre del Proyecto:** TME en zona lumbar (odontologos)
-**Stakeholder/Cliente:** [Nombre de la empresa, institución o usuario]
+**Stakeholder/Cliente:** Colombia Smile S.A.S. – Clínica Odontológica 
 
 ---
 
