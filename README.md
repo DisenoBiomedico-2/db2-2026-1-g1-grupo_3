@@ -12,8 +12,8 @@
 *   Nazly Vanessa Gonzalez Mina
 *   Isabela Rodriguez Paz
 
-**Nombre del Proyecto:**  Trastornos musculoesqueléticos (TME) en la zona lumbar en odontólogos
-**Stakeholder/Cliente:** Odontólogos profesionales
+**Nombre del Proyecto:**  Trastornos musculoesqueléticos (TME) en la zona lumbar en odontólogos.
+**Stakeholder/Cliente:** Odontólogos profesionales.
 
 ---
 
