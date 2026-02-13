@@ -12,8 +12,8 @@
 *   Nazly Vanessa Gonzalez Mina
 *   Isabela Rodriguez Paz
 
-**Nombre del Proyecto:** TME en zona lumbar (odontologos)
-**Stakeholder/Cliente:** Colombia Smile S.A.S. – Clínica Odontológica 
+**Nombre del Proyecto:**  Trastornos musculoesqueléticos (TME) en la zona lumbar en odontólogos
+**Stakeholder/Cliente:** Odontólogos profesionales
 
 ---
 
@@ -72,4 +72,4 @@ Este repositorio organiza el proyecto separando la evidencia documental de los a
 ---
 
 ## 📝 Resumen del Problema
-La problemática que abordará en el curso se centra en las condiciones ergonómicas de la práctica odontológica, especificamente en Colombia Smile, donde los profesionales se ven obligados a mantener posturas estáticas y forzadas durante extensas jornadas de trabajo. Esta situación genera un alto riesgo de desarrollar trastornos musculoesqueléticos, fatiga crónica y problemas circulatorios, afectando directamente la salud, el bienestar y la productividad del equipo clínico. En consecuencia, se configura un escenario en el que la falta de estrategias ergonómicas adecuadas compromete tanto la calidad de vida de los odontólogos como la eficiencia y sostenibilidad de su desempeño profesional.
+La problemática se centra en la alta prevalencia de trastornos musculoesqueléticos (TME) en la zona lumbar en odontólogos, asociados a posturas estáticas prolongadas, flexión sostenida del tronco y sedestación continua durante la práctica clínica. Estas condiciones generan sobrecarga biomecánica acumulativa y favorecen la aparición de dolor dorso-lumbar, afectando la salud y el desempeño profesional. La falta de estrategias ergonómicas preventivas mantiene y agrava esta situación.
