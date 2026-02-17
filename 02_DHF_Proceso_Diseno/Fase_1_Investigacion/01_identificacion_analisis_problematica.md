@@ -1,6 +1,7 @@
-
- Definición del Problema
+# Definición del Problema
 La problemática abordada en el presente trabajo se centra en las condiciones ergonómicas de los odontólogos profesionales, cuya práctica clínica implica jornadas prolongadas, alta demanda de pacientes y realización frecuente de procedimientos de larga duración. En este contexto, deben mantener posturas estáticas y forzadas durante extensos periodos, caracterizadas por la flexión sostenida del tronco, inclinación cervical, elevación de hombros y sedestación prolongada.
+
 Estas condiciones generan una sobrecarga biomecánica continua en la columna vertebral y en las extremidades superiores, aumentando el riesgo de desarrollar trastornos musculoesqueléticos, especialmente dolor lumbar, dorsal y cervical. La repetición constante de estas posturas, sumada a la precisión manual que exige la odontología, favorece la aparición de fatiga muscular acumulativa y limitaciones funcionales.
+
 Asimismo, la escasa implementación de estrategias ergonómicas estructuradas puede perpetuar un entorno laboral donde el dolor se normaliza como parte de la profesión, configurando el denominado “círculo vicioso” del dolor: malestar físico, fatiga y mayor deterioro postural. Aunque muchos profesionales no perciben una afectación inmediata en su rendimiento, el desgaste progresivo puede comprometer su bienestar, productividad y sostenibilidad a largo plazo, lo que hace necesario proponer estrategias ergonómicas que promuevan entornos laborales más saludables y eficientes.
 
