@@ -10,6 +10,7 @@
 - Posicionan al profesional en una postura similar a estar de pie, reduciendo la presión sobre los discos intervertebrales
 - Mejoran la circulación en las piernas y facilitan el movimiento alrededor del paciente
 - Mayor movilidad y acceso al área de trabajo sin comprometer la postura
+
   [imagen saddle stoools](https://lincharm.com/products/dental-saddle-stool-chair?utm_source=chatgpt.com)
 
 ### 
