@@ -2,7 +2,7 @@
 
 Las especificaciones del producto se derivan del análisis de la problemática ergonómica identificada en odontólogos clínicos expuestos a posturas estáticas prolongadas y carga biomecánica acumulativa en la región lumbar. Estos criterios traducen la necesidad detectada en requisitos técnicos medibles y verificables que orientan el desarrollo de una solución alineada con la evidencia científica y el contexto clínico.
 
-## **Tabla I**
+ **Tabla I**
 
 ## **Especificaciones del producto para la reducción de tme en zona lumbar en odontólogos**
 
