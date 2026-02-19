@@ -1,4 +1,4 @@
-# ***4. Criterios de aceptación***
+### ***4. Criterios de aceptación***
 
 **1\.**        **Costo:**
 
