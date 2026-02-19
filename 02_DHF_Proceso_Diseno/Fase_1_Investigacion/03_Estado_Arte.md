@@ -2,6 +2,10 @@
 
 ## Ergonimia en el puesto de trabajo
 
+# **Estado del Arte (Fotografia del estado Actual de las soluciones para el TME lumbar en odontologos)**
+
+## Ergonimia en el puesto de trabajo
+
 Desde aproximadamente 2016 hasta la actualidad, la investigación científica ha consolidado a los trastornos musculoesqueléticos (TME), especialmente el dolor lumbar, como uno de los principales problemas de salud ocupacional en odontología. La literatura reciente coincide en que la práctica clínica odontológica exige posturas estáticas prolongadas, inclinación del tronco, rotaciones vertebrales repetitivas y alta precisión visual, factores que incrementan la carga biomecánica sobre la columna lumbar y favorecen la aparición de dolor crónico y fatiga muscular. Estudios epidemiológicos recientes continúan reportando prevalencias elevadas de dolor lumbar en odontólogos, lo que confirma la vigencia del problema en la práctica profesional contemporánea.
 
 Durante este periodo, los modelos de intervención han evolucionado hacia enfoques integrales que combinan ergonomía clínica, tecnología aplicada, educación postural, ejercicio terapéutico y estrategias organizacionales.
@@ -9,14 +13,22 @@ Durante este periodo, los modelos de intervención han evolucionado hacia enfoqu
 ## Taburetes Ergonomicos
 
 ## Taburetes Tipo Silla de Montar (Saddle Stools)
-### Características principales:
-- Diseño dividido en dos partes que imita la forma de una silla de montar
-- Promueven la inclinación anterior de la pelvis, manteniendo la lordosis lumbar natural
-- Posicionan al profesional en una postura similar a estar de pie, reduciendo la presión sobre los discos intervertebrales
-- Mejoran la circulación en las piernas y facilitan el movimiento alrededor del paciente
-- Mayor movilidad y acceso al área de trabajo sin comprometer la postura
 
-  [imagen saddle stoools](https://lincharm.com/products/dental-saddle-stool-chair?utm_source=chatgpt.com)
+El artículo “Assessment of the ergonomic risk from saddle and conventional seats in dentistry” (2018) concluye que los taburetes tipo montura permiten una postura lumbar más neutral y reducen el riesgo ergonómico en odontólogos, ya que favorecen un mayor ángulo coxofemoral y menor flexión lumbar comparado con taburetes convencionales, lo cual se asocia a menor probabilidad de TME lumbar; este tipo de silla suele presentar forma de montura ecuestre, sin respaldo o con soporte lumbar opcional, fabricantes frecuentes incluyen Bambach, BONEW y fabricantes OEM asiáticos, su estado en el mercado es alto debido a la tendencia ergonómica en odontología, los materiales predominantes son espuma de alta densidad recubierta en cuero sintético o poliuretano médico con base metálica cromada y elevación neumática, el costo oscila aproximadamente entre 400 y 900 USD dependiendo calidad, ejemplos comerciales como el BONEW Global Dental Saddle Chair o modelos similares tienen estructura metálica, tapizado PU médico y ruedas hospitalarias.
+
+[imagen saddle stoools](https://www.treedental.com/dentist-chair-for-sale-tr-816.html?utm_source=chatgpt.com)
+
+### Taburete Ergonomico Convencional con respaldo  lumbar 
+
+El estudio “Does an ergonomic dentist stool design have a positive impact on musculoskeletal health?” (2024) evidenció que los taburetes ergonómicos con soporte lumbar y ajustes ergodinámicos reducen la actividad muscular y la fatiga en procedimientos odontológicos, lo cual puede prevenir TME lumbar; estos taburetes tienen forma circular tradicional con respaldo lumbar ajustable, fabricantes comunes incluyen A-dec, Belmont, Maddox o proveedores clínicos OEM, el mercado se encuentra consolidado en odontología por su compatibilidad con unidades dentales, los materiales incluyen acero o aluminio en base, tapizado vinílico médico y cilindros hidráulicos, el costo promedio se sitúa entre 450 y 900 USD según gama, un ejemplo comercial es el Basic Operator’s Stool con estructura metálica y tapizado clínico.
+
+[imagen Taburete convencional](https://www.ubuy.ae/en/product/N44BW8AQ0-ergonomic-dental-stool-with-adjustable-height-rolling-base-comfortable-dentist-chair-for-hygienists-assistants-medical-professionals?utm_source=chatgpt.com)
+
+### Taburete con soporte torxico o pecho
+
+El artículo “A dental stool with chest support reduces lower back muscle activation” (2016) reporta que los taburetes con soporte torácico reducen la activación muscular lumbar al permitir que el odontólogo mantenga postura erguida durante procedimientos prolongados, disminuyendo la carga biomecánica lumbar y el riesgo de TME; estos taburetes presentan forma híbrida con asiento convencional más soporte anterior torácico ajustable, fabricantes especializados incluyen Bambach y firmas de ergonomía clínica avanzada, su estado en el mercado es emergente pero creciente en odontología ergonómica, los materiales suelen ser acero médico, espuma anatómica y recubrimientos antimicrobianos, el costo suele superar 700 USD debido a su complejidad.
+
+[imagen taburete con soporte toraxico](https://www.amazon.com/-/es/ErgoStrad-ergonómico-patentado-fabricación-ajustable/dp/B0798XNYYJ)
 
 
 ## Sistemas de lupas prismáticas
