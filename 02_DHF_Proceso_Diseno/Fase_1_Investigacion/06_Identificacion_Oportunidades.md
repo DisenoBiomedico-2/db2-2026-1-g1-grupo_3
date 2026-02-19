@@ -1,3 +1,17 @@
+# **Identificación de Oportunidades en TME Lumbar en Odontólogos**
+
+ **Tabla l**
+
+##**2\. Análisis del problema \- TME lumbar en odontológos.**
+
+A partir de la observación realizada en el entorno clínico odontológico y las entrevistas efectuadas, se identificaron los elementos centrales que delimitan la problemática. El análisis permite definir con precisión la dificultad técnica, la población afectada y el resultado esperado si se logra intervenir adecuadamente.
+
+| Componente | Descripción |
+| :---: | ----- |
+| **Problema Central** | Exposición prolongada a carga biomecánica lumbar debido a posturas estáticas e inclinación sostenida del tronco durante procedimientos odontológicos de larga duración, lo que incrementa el riesgo de desarrollar trastornos musculoesqueléticos (TME) en zona lumbar. |
+| **Población** | Odontólogos clínicos en ejercicio activo que realizan procedimientos restauradores y estéticos con jornadas laborales de 7–8 horas diarias y tiempos operatorios prolongados. |
+| **Resultado (Outcome)** | Reducción del dolor lumbar y de la fatiga musculoesquelética, favoreciendo el bienestar físico y la sostenibilidad del desempeño profesional a largo plazo. |
+
 ## ***4. Criterios de aceptación***
 
 **1\.**        **Costo:**
