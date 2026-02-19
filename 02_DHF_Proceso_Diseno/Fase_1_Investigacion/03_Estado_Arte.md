@@ -42,3 +42,19 @@ El tercer sistema corresponde a las SurgiTel Ergo Loupes, desarrolladas por Gene
 El cuarto producto son las MediLoupes Prismatic Loupes, fabricadas por MediLoupes, empresa especializada en lupas para los ámbitos médico, dental y veterinario, con sede en el Reino Unido. Ofrecen un rango de magnificación de 4.0x a 6.0x, con diseño totalmente personalizable según las demandas visuales y posturales de cada procedimiento, y con especial énfasis en la comodidad para el uso continuado durante toda la jornada laboral en distintas aplicaciones clínicas (materiales: lentes prismáticas de alta potencia, marcos ergonómicos livianos; precio: $1,500–$2,800 USD) (MediLoupes, 2021).
 
 El quinto sistema son las Orivens Ergo Loupes, desarrolladas por Orivens, fabricante de dispositivos de precisión óptica con más de 20 años de experiencia en el sector. Constituyen una propuesta de lupas ergonómicas de alta calidad óptica orientadas a reducir la fatiga muscular y mejorar la postura en odontólogos y cirujanos durante procedimientos prolongados, y cuentan con el aval clínico del Dr. Pascal Magne, referente internacional en odontología estética y restauradora (materiales: titanio grado aeronáutico, lentes ópticas avanzadas; peso: \<50 g; precio: $1,500–$3,500 USD) (Orivens, 2024, 2025).  
+
+## Referencias
+
+[1] G. R. Gouvêa et al., “Assessment of the ergonomic risk from saddle and conventional seats in dentistry: A systematic review and meta-analysis,” PLoS One, 2018. Disponible: https://pmc.ncbi.nlm.nih.gov/articles/PMC6296655/
+
+[2] J.-M. Lee et al., “Does an ergonomic dentist stool design have a positive impact on musculoskeletal health during intraoral scans and tooth preparation?” Int. J. Prosthodont., 2024. Disponible: https://pubmed.ncbi.nlm.nih.gov/37988424/
+
+[3] V. Tran et al., “A dental stool with chest support reduces lower back muscle activation,” Int. J. Occup. Saf. Ergon., 2016. Disponible: https://pubmed.ncbi.nlm.nih.gov/27058816/
+
+[4] W. Vieira et al., “Influence of different stool types on muscle activity and lumbar posture among dentists,” Applied Ergonomics, 2016. Disponible: https://www.sciencedirect.com/science/article/abs/pii/S0003687016300321
+
+[5] Guía de mercado de taburetes odontológicos ergonómicos, 2025. Disponible: https://smartbuy.alibaba.com/buyingguides/dentist-stool
+
+[6] Catálogo taburete dental ergonómico ToyeDent. Disponible: https://es.made-in-china.com/co_toyedent/product_Ergonomic-Dental-Doctor-Chair-Stool-Chair-with-Backrest_rnyirnsog.html
+
+[7] Bambach Saddle Seat Dental Stool. Disponible: https://www.bambach.es/usos/dental/
