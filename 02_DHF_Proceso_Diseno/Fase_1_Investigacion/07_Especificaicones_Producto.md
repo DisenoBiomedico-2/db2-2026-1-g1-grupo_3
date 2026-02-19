@@ -16,7 +16,11 @@ Las especificaciones del producto se derivan del análisis de la problemática e
 | Seguridad | No generar puntos de presión excesiva | Obligatoria | Distribución uniforme de carga |
 | Usabilidad | Implementación sencilla y adaptación rápida | Deseable | Tiempo de adaptación \< 30 min |
 
-# **Referencias**
+### **Validación de las Especificaciones**
+
+Las especificaciones técnicas definidas se fundamentan en evidencia científica reciente sobre ergonomía clínica y dolor lumbar ocupacional, así como en lineamientos internacionales aplicables al equipamiento odontológico. Los criterios medibles, como la reducción angular de flexión del tronco, la disminución clínicamente relevante del dolor lumbar y la compatibilidad antropométrica, se derivan de estudios que cuantifican mejoras posturales mediante lupas ergonómicas, intervenciones en dolor lumbar y guías ergonómicas para profesionales de la salud oral. Esto garantiza que los requisitos establecidos estén alineados con la práctica clínica y con parámetros validados en la literatura.
+
+## **Referencias**
 
 \[1\] Authors, “A comparative study of postural impact and benefits from loupes in undergraduate and graduate dentists,” *Journal of Dentistry*, 2025\. \[Online\]. Available: [https://www.sciencedirect.com/science/article/pii/S0300571225006086](https://www.sciencedirect.com/science/article/pii/S0300571225006086)
 
