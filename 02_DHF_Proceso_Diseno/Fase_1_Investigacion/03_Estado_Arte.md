@@ -35,15 +35,31 @@ El artículo “A dental stool with chest support reduces lower back muscle acti
 
 El primero de ellos corresponde a las Orascoptic Ergo Loupes, lanzadas por Orascoptic, fabricante de dispositivos de visión clínica fundado por un odontólogo en 1981 y con sede en Middleton/Madison, Wisconsin, Estados Unidos. La empresa anunció el lanzamiento de esta línea en 2023, presentándola como un sistema de lupas con prismas refractivos (deflection optics) que redirigen el eje de visión hacia el campo operatorio, permitiendo al profesional mantener una postura cervical neutra y sentarse erguido durante los procedimientos. Los modelos comercializados son el RDH Ergo 3.0x, con magnificación de 3.0x, campo de visión de 9.5 cm y profundidad de campo de 9.0 cm, y el HDL Ergo 3.5x, con magnificación de 3.5x, campo de visión de 8.5 cm y profundidad de campo de 8.0 cm; ambos con un peso de aproximadamente 39.7 g, lentes de vidrio de grado A con recubrimientos antirrayado y antirreflejo, y distancia de trabajo y ángulo de declinación personalizados según la estatura y postura de cada profesional (materiales: vidrio de grado A finamente recocido, policarbonato de alto índice; precio: $2,000–$2,500 USD) (Orascoptic, 2023, 2025). 
 
-[imagen RDH Ergo 3.0x](https://www.orascoptic.com/es-es/ergo)
+[imagen de lupas RDH Ergo 3.0x](https://www.orascoptic.com/es-es/ergo)
 
 El segundo sistema es el ErgonoptiX Comfort Prismatic, desarrollado y comercializado por LifeWaves Limited, empresa con sede en el Reino Unido y propietaria de la marca ErgonoptiX. Se trata de lupas binoculares prismáticas de tipo flip-up diseñadas para uso odontológico y quirúrgico, cuyas características técnicas incluyen un ángulo de visión ajustable entre 0° y 45°, distancia interpupilar regulable entre 48 y 80 mm, campo visual de hasta 60 mm, profundidad de foco de hasta 35 mm y un peso desde 84 gramos. Incorporan lentes con recubrimiento antirreflejo multicapa y son compatibles con lentes de prescripción graduada, lo que permite una adaptación individualizada al profesional (materiales: lentes prismáticas multicapa, monturas de aleación ligera; precio: $1,000–$2,500 USD) (ErgonoptiX, s.f.; LifeWaves Limited, 2012).
 
+[imagen de lupas ErgonoptiX Comfort Prismatic](https://ergonoptix.com/comfort-prismatic-surgical-medical-loupes/)
+
 El tercer sistema corresponde a las SurgiTel Ergo Loupes, desarrolladas por General Scientific Corporation (GSC), empresa fundada en 1932 y con sede en Ann Arbor, Michigan, Estados Unidos. SurgiTel es la división especializada de GSC creada en 1992 para el desarrollo de lupas ergonómicas, y sus productos se basan en tecnologías prismáticas y de lentes patentadas bajo el concepto ErgoDeflection. Están disponibles en modalidad TTL (through-the-lens) y flip-up, con rangos de aumento entre 2.5x y 5.5x según el modelo, y se personalizan en función de la altura, la distancia de trabajo y la postura individual del operador. Adicionalmente, son compatibles con sistemas de iluminación LED de bajo pico azul orientados a la protección ocular del profesional (materiales: compuestos poliméricos ultraligeros, marcos de titanio o aleaciones; peso: 42–50 g; precio: $1,200–$3,000 USD) (SurgiTel, 2024, 2025).
+
+[imagen de lupas SurgiTel Ergo](https://www.surgitel.com/loupes/)
 
 El cuarto producto son las MediLoupes Prismatic Loupes, fabricadas por MediLoupes, empresa especializada en lupas para los ámbitos médico, dental y veterinario, con sede en el Reino Unido. Ofrecen un rango de magnificación de 4.0x a 6.0x, con diseño totalmente personalizable según las demandas visuales y posturales de cada procedimiento, y con especial énfasis en la comodidad para el uso continuado durante toda la jornada laboral en distintas aplicaciones clínicas (materiales: lentes prismáticas de alta potencia, marcos ergonómicos livianos; precio: $1,500–$2,800 USD) (MediLoupes, 2021).
 
+[imagen de lupas MediLoupes Prismatic](https://mediloupes.com/product/prismatic-loupes/)
+
 El quinto sistema son las Orivens Ergo Loupes, desarrolladas por Orivens, fabricante de dispositivos de precisión óptica con más de 20 años de experiencia en el sector. Constituyen una propuesta de lupas ergonómicas de alta calidad óptica orientadas a reducir la fatiga muscular y mejorar la postura en odontólogos y cirujanos durante procedimientos prolongados, y cuentan con el aval clínico del Dr. Pascal Magne, referente internacional en odontología estética y restauradora (materiales: titanio grado aeronáutico, lentes ópticas avanzadas; peso: \<50 g; precio: $1,500–$3,500 USD) (Orivens, 2024, 2025).  
+
+[imagen de lupas Orivens Ergo](https://orivens.com/es/products/ergovision-ttl)
+
+## Patentes
+
+La patente WO2019025729A1, titulada Analysis of a movement and/or of a posture of at least a portion of the body of a person, describe un método de procesamiento de imágenes tridimensionales mediante un sistema estereoscópico con dos cámaras, capaz de capturar, reconstruir en 3D y extraer parámetros posturales y de movimiento de una parte del cuerpo, comparando distintas imágenes o secuencias para proporcionar un análisis objetivo de la postura en tiempo real o diferido (materiales: cámaras estéreo convencionales, software de procesamiento 3D; especificaciones: captura tiempo real/diferido, extracción automática parámetros posturales\*\*) (Dumenil, Gouz y Leporcq, 2019).
+
+Por su parte, la patente EP4111909A1, titulada Ergonomic seat, propone un asiento ergonómico inteligente que integra sensores de fuerza estratégicamente dispuestos en la superficie de la silla, cuyos datos son procesados en tiempo real por un microcontrolador que asesora al usuario sobre su postura con el fin de optimizar la sedestación y prevenir trastornos musculoesqueléticos (materiales: sensores strain gauge, microcontrolador embebido, tapicería transductora; especificaciones: sensores en pares a distancias X/Y específicas, análisis tiempo real\*\*) (Attouche, 2023).
+
+Finalmente, la patente WO2023275382A1, también titulada Ergonomic seat, representa una versión internacional y ampliada del concepto anterior, incorporando sensores de fuerza dispuestos a distancias específicas Y1, Y2, X1, X2 en la superficie del asiento y un método de optimización postural que procesa la distribución de carga y presión para generar correcciones en tiempo real (materiales: sensores alta precisión, microcontrolador con algoritmos ML básico, estructura transductora; especificaciones: monitorización continua, optimización algorítmica\*\*) (Attouche, 2023).
 
 ## Referencias
 
