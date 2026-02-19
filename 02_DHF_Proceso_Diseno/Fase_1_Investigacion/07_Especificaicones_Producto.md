@@ -4,7 +4,7 @@ Las especificaciones del producto se derivan del análisis de la problemática e
 
  **Tabla I**
  
-| Categoría | Especificación | Tipo | Criterio medible |
+| Categoría | Especificación | Tipo | Criterio Medible |
 | ----- | ----- | ----- | ----- |
 | Funcional | Mantener postura lumbar cercana a posición neutra fisiológica | Obligatoria | Medición angular de inclinación del tronco |
 | Funcional | Permitir uso continuo en procedimientos prolongados | Obligatoria | Tiempo de uso ≥ 4 horas sin incremento significativo de incomodidad |
