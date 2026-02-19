@@ -16,7 +16,7 @@ A partir de la observación realizada en el entorno clínico odontológico y las
 
 Una forma de reducir la carga biomecánica lumbar asociada a posturas estáticas prolongadas en odontólogos clínicos que disminuya la incidencia de dolor lumbar y favorezca la sostenibilidad de su desempeño profesional.
 
-## ***4. Criterios de aceptación***
+## **4. Criterios de aceptación**
 
 **1\.**        **Costo:**
 
