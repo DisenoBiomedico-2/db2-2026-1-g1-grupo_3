@@ -1,4 +1,8 @@
-#
+# Priorización de Necesidades Ergonómicas para la Prevención de TME Lumbar en Odontólogos
+
+Las siguientes tablas presentan la priorización de necesidades ergonómicas identificadas en el ejercicio profesional odontológico, especialmente relacionadas con la prevención de los trastornos musculoesqueléticos (TME) lumbares. Cada necesidad fue valorada según su impacto en la salud, frecuencia de aparición en la práctica clínica y viabilidad de intervención, permitiendo obtener una ponderación final que facilita establecer prioridades de acción.
+
+El análisis se organiza en diferentes dimensiones: postura clínica, mobiliario y equipamiento, organización del trabajo, distribución del espacio clínico, gestión del tiempo y formación en ergonomía. Esta estructuración permite visualizar de manera integral los factores que influyen en la carga biomecánica del odontólogo y orientar estrategias preventivas basadas en criterios técnicos y de factibilidad.
 
 ## Tabla 1
 
