@@ -1,7 +1,8 @@
-# Definición del Problema
-La problemática abordada en el presente trabajo se centra en las condiciones ergonómicas de los odontólogos profesionales, cuya práctica clínica implica jornadas prolongadas, alta demanda de pacientes y realización frecuente de procedimientos de larga duración. En este contexto, deben mantener posturas estáticas y forzadas durante extensos periodos, caracterizadas por la flexión sostenida del tronco, inclinación cervical, elevación de hombros y sedestación prolongada.
+# **Identificación y análisis de la problemática**
 
-Estas condiciones generan una sobrecarga biomecánica continua en la columna vertebral y en las extremidades superiores, aumentando el riesgo de desarrollar trastornos musculoesqueléticos, especialmente dolor lumbar, dorsal y cervical. La repetición constante de estas posturas, sumada a la precisión manual que exige la odontología, favorece la aparición de fatiga muscular acumulativa y limitaciones funcionales.
+La práctica clínica odontológica exige jornadas prolongadas y la realización frecuente de procedimientos de larga duración, durante los cuales los profesionales mantienen posturas estáticas caracterizadas por flexión sostenida del tronco, inclinación cervical, elevación de hombros y sedestación continua.
 
-Asimismo, la escasa implementación de estrategias ergonómicas estructuradas puede perpetuar un entorno laboral donde el dolor se normaliza como parte de la profesión, configurando el denominado “círculo vicioso” del dolor: malestar físico, fatiga y mayor deterioro postural. Aunque muchos profesionales no perciben una afectación inmediata en su rendimiento, el desgaste progresivo puede comprometer su bienestar, productividad y sostenibilidad a largo plazo, lo que hace necesario proponer estrategias ergonómicas que promuevan entornos laborales más saludables y eficientes.
+Estas condiciones generan una sobrecarga biomecánica acumulativa sobre la columna vertebral, especialmente en la región lumbar, aumentando el riesgo de desarrollar trastornos musculoesqueléticos (TME). La repetición constante de estas posturas, sumada a la alta precisión manual requerida, favorece la aparición de fatiga muscular y dolor persistente.
+
+Aunque muchos odontólogos continúan desempeñando su labor sin percibir una afectación inmediata en su rendimiento, el desgaste progresivo compromete su bienestar y la sostenibilidad de su ejercicio profesional a largo plazo, configurando una problemática de salud ocupacional relevante en el entorno clínico.
 
