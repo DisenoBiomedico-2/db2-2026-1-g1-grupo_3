@@ -19,7 +19,7 @@ Durante este periodo, los modelos de intervención han evolucionado hacia enfoqu
   [imagen saddle stoools](https://lincharm.com/products/dental-saddle-stool-chair?utm_source=chatgpt.com)
 
 
-###**Sistemas de lupas prismáticas** 
+## Sistemas de lupas prismáticas
 
 El primero de ellos corresponde a las Orascoptic Ergo Loupes, lanzadas por Orascoptic, fabricante de dispositivos de visión clínica fundado por un odontólogo en 1981 y con sede en Middleton/Madison, Wisconsin, Estados Unidos. La empresa anunció el lanzamiento de esta línea en 2023, presentándola como un sistema de lupas con prismas refractivos (deflection optics) que redirigen el eje de visión hacia el campo operatorio, permitiendo al profesional mantener una postura cervical neutra y sentarse erguido durante los procedimientos. Los modelos comercializados son el RDH Ergo 3.0x, con magnificación de 3.0x, campo de visión de 9.5 cm y profundidad de campo de 9.0 cm, y el HDL Ergo 3.5x, con magnificación de 3.5x, campo de visión de 8.5 cm y profundidad de campo de 8.0 cm; ambos con un peso de aproximadamente 39.7 g, lentes de vidrio de grado A con recubrimientos antirrayado y antirreflejo, y distancia de trabajo y ángulo de declinación personalizados según la estatura y postura de cada profesional (materiales: vidrio de grado A finamente recocido, policarbonato de alto índice; precio: $2,000–$2,500 USD) (Orascoptic, 2023, 2025).
 
