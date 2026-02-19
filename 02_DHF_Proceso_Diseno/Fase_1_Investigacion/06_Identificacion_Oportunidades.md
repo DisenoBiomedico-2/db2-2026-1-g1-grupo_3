@@ -12,6 +12,10 @@ A partir de la observación realizada en el entorno clínico odontológico y las
 | **Población** | Odontólogos clínicos en ejercicio activo que realizan procedimientos restauradores y estéticos con jornadas laborales de 7–8 horas diarias y tiempos operatorios prolongados. |
 | **Resultado (Outcome)** | Reducción del dolor lumbar y de la fatiga musculoesquelética, favoreciendo el bienestar físico y la sostenibilidad del desempeño profesional a largo plazo. |
 
+## **3\. Declaración de Necesidad (Need Statement)**
+
+Una forma de reducir la carga biomecánica lumbar asociada a posturas estáticas prolongadas en odontólogos clínicos que disminuya la incidencia de dolor lumbar y favorezca la sostenibilidad de su desempeño profesional.
+
 ## ***4. Criterios de aceptación***
 
 **1\.**        **Costo:**
