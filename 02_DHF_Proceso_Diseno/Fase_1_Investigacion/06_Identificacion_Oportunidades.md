@@ -1,6 +1,6 @@
 # **Identificación de Oportunidades en TME Lumbar en Odontólogos**
 
-## **2\. Análisis del problema \- TME lumbar en odontológos.**
+## **2\. Análisis del problema \- TME lumbar en odontológos**
 
  **Tabla l**
  
