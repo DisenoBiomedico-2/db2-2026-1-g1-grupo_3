@@ -1,9 +1,9 @@
 # **Identificación de Oportunidades en TME Lumbar en Odontólogos**
 
- **Tabla l**
-
 ## **2\. Análisis del problema \- TME lumbar en odontológos.**
 
+ **Tabla l**
+ 
 A partir de la observación realizada en el entorno clínico odontológico y las entrevistas efectuadas, se identificaron los elementos centrales que delimitan la problemática. El análisis permite definir con precisión la dificultad técnica, la población afectada y el resultado esperado si se logra intervenir adecuadamente.
 
 | Componente | Descripción |
