@@ -2,10 +2,6 @@
 
 ## Ergonimia en el puesto de trabajo
 
-# **Estado del Arte (Fotografia del estado Actual de las soluciones para el TME lumbar en odontologos)**
-
-## Ergonimia en el puesto de trabajo
-
 Desde aproximadamente 2016 hasta la actualidad, la investigación científica ha consolidado a los trastornos musculoesqueléticos (TME), especialmente el dolor lumbar, como uno de los principales problemas de salud ocupacional en odontología. La literatura reciente coincide en que la práctica clínica odontológica exige posturas estáticas prolongadas, inclinación del tronco, rotaciones vertebrales repetitivas y alta precisión visual, factores que incrementan la carga biomecánica sobre la columna lumbar y favorecen la aparición de dolor crónico y fatiga muscular. Estudios epidemiológicos recientes continúan reportando prevalencias elevadas de dolor lumbar en odontólogos, lo que confirma la vigencia del problema en la práctica profesional contemporánea.
 
 Durante este periodo, los modelos de intervención han evolucionado hacia enfoques integrales que combinan ergonomía clínica, tecnología aplicada, educación postural, ejercicio terapéutico y estrategias organizacionales.
@@ -76,3 +72,41 @@ Finalmente, la patente WO2023275382A1, también titulada Ergonomic seat, represe
 [6] Catálogo taburete dental ergonómico ToyeDent. Disponible: https://es.made-in-china.com/co_toyedent/product_Ergonomic-Dental-Doctor-Chair-Stool-Chair-with-Backrest_rnyirnsog.html
 
 [7] Bambach Saddle Seat Dental Stool. Disponible: https://www.bambach.es/usos/dental/
+
+[8] Orascoptic, "Orascoptic introduces Ergo loupes," Orascoptic, May 9, 2023. [Online]. Available: https://dimensionsofdentalhygiene.com/orascoptic-introduces-ergo-loupes/
+
+[9] Orascoptic, "Orascoptic introduces line of Ergo loupes," Orascoptic, Aug. 10, 2025. [Online]. Available: https://www.orascoptic.com/en-us/news/orascoptic-introduces-line-of-ergo-loupes
+
+[10] Orascoptic, "Ergo – deflection loupes," Orascoptic, n.d. [Online]. Available: https://www.orascoptic.com/en-us/ergo
+
+[11] "Orascoptic," USA Dental Report – Company Profile, 2025. [Online]. Available: https://usadentalreport.com/company-profile/orascoptic/
+
+[12] "Orascoptic overview – services, products, equipment data and more," Explorium, 2024. [Online]. Available: https://www.explorium.ai/manufacturing/companies/orascoptic
+
+[13] ErgonoptiX, "Comfort Prismatic Surgical Medical Loupes," LifeWaves Limited, Reino Unido. [Online]. Available: https://ergonoptix.com/comfort-prismatic-surgical-medical-loupes
+[Accessed: Feb. 2026].
+
+[14] LifeWaves Limited, "Prismatic Range of Dental and Surgical Loupes," LifeWaves Ltd., Reino Unido, 2012. [Online]. Available: https://www.lifewavesltd.com/product/prismatic-range-of-dental-and-surgical-loupes
+[Accessed: Feb. 2026].
+
+[15] SurgiTel, "Ergo Loupes – Dental & Surgical Ergonomic Loupes," General Scientific Corporation, Ann Arbor, MI, USA, 2025. [Online]. Available: https://www.surgitel.com/loupes/
+[Accessed: Feb. 2026].
+
+[16] SurgiTel, "Company – ErgoDeflection Custom Deflection Loupes," General Scientific Corporation, 2024. [Online]. Available: https://surgitelloupes.co.uk/company/
+[Accessed: Feb. 2026].
+
+[17] MediLoupes, "Prismatic Loupes," MediLoupes, United Kingdom, 2021. [Online]. Available: https://mediloupes.com/product/prismatic-loupes/
+[Accessed: Feb. 2026].
+
+[18] Orivens, "About Us," Orivens, 2024. [Online]. Available: https://orivens.com/pages/about-us
+[Accessed: Feb. 2026].
+
+[19] Orivens, "The Top 3 Ergo Loupes for Dentists, Surgeons & Healthcare Professionals," Orivens, 2025. [Online]. Available: https://orivens.com/blogs/news/the-top-3-ergo-loupes-for-dentists-surgeons-healthcare-professionals
+[Accessed: Feb. 2026].
+
+[20] A. Dumenil, J. Gouz, and B. Leporcq, "Analysis of a movement and/or of a posture of at least a portion of the body of a person," WO Patent WO2019025729A1, Feb. 7, 2019.
+
+{21] M. Attouche, "Ergonomic seat," EP Patent EP4111909A1, Jan. 4, 2023.
+
+[22] M. Attouche, "Ergonomic seat," WO Patent WO2023275382A1, Jan. 5, 2023.
+
