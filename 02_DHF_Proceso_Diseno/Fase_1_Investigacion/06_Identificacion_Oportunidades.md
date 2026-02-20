@@ -1,5 +1,66 @@
 # **Identificación de Oportunidades en TME Lumbar en Odontólogos**
 
+
+## **Descripción del contexto y problemática observada**
+
+**1\. Lugar donde se realizó la observación**
+
+La indagación se realizó en consultorios odontológicos privados ubicados en la ciudad de Cali, Colombia. La recolección de información se llevó a cabo mediante entrevistas semiestructuradas a profesionales en ejercicio activo, con experiencia clínica de 10 y 25 años respectivamente. No se realizó observación directa del puesto de trabajo, sino que el análisis se fundamenta en los relatos detallados de la dinámica laboral cotidiana.
+ * * *
+**2\. Situación real identificada**
+
+En ambos consultorios se identificó una dinámica clínica caracterizada por jornadas laborales de 7 a 8 horas diarias, con realización frecuente de procedimientos prolongados que superan una hora continua y, en algunos casos, alcanzan entre 4 y 4.5 horas sin interrupciones significativas.
+
+Durante estos procedimientos, los profesionales mantienen posturas estáticas prolongadas en sedestación, asociadas a:
+
+·        Inclinación anterior sostenida del tronco.
+
+·        Flexión cervical mantenida.
+
+·        Escasa variabilidad postural.
+
+·        Permanencia sentada sin pausas activas estructuradas.
+
+Uno de los profesionales describe su postura como “encorvada” durante largos periodos, especialmente en procedimientos estéticos de alta precisión. El otro profesional refiere afectación en la región lumbar y glútea tras años de ejercicio continuo.
+
+Se identificó que los periodos de alta demanda clínica intensifican la carga física, incrementando la percepción de fatiga en la región dorsal y lumbar.
+ * * *
+**3\. Actores involucrados**
+
+Los actores principales identificados son:
+
+Odontólogos clínicos en ejercicio privado, responsables directos de la ejecución de los procedimientos.
+
+Pacientes odontológicos, cuya condición bucal y necesidad de precisión operatoria obligan al profesional a adoptar posturas inclinadas para obtener visibilidad adecuada del campo operatorio.
+
+No se cuenta con información específica sobre auxiliares clínicos u otros actores institucionales. Los profesionales entrevistados ejercen en consultorios privados y toman decisiones autónomas sobre su organización laboral y adquisición de tecnología.
+ * * *
+**4\. Barreras y dificultades técnicas identificadas**
+
+A partir de la información recolectada, se evidencian las siguientes limitaciones en el entorno real:
+
+Uso predominante de sillas convencionales, con percepción de incomodidad en procedimientos prolongados.
+
+Permanencia prolongada en sedestación sin cambios posturales estructurados.
+
+Alta demanda de precisión visual que obliga a inclinación sostenida.
+
+Presupuesto disponible para adquisición tecnológica, pero no orientado necesariamente a equipamiento ergonómico de alta gama.
+
+Ausencia de protocolos formales de pausas activas o seguimiento ergonómico estructurado.
+
+Normalización cultural del dolor musculoesquelético como parte del ejercicio profesional.
+
+Adicionalmente, aunque los profesionales reconocen la relación entre ergonomía y salud vertebral, no se evidencia implementación sistemática de estrategias preventivas dentro de la dinámica diaria.
+ * * *
+**Síntesis del problema observado**
+
+En el contexto clínico privado de Cali, la práctica odontológica se desarrolla bajo condiciones que favorecen la sobrecarga biomecánica acumulativa de la columna vertebral, particularmente en región lumbar y dorsal. La combinación de posturas estáticas prolongadas, procedimientos extensos, alta exigencia visual y ausencia de pausas estructuradas configura un escenario de riesgo ergonómico persistente.
+
+La problemática no se manifiesta como una limitación inmediata del desempeño profesional; sin embargo, se evidencia la presencia de dolor recurrente y fatiga acumulativa, lo cual representa un riesgo de progresión hacia trastornos musculoesqueléticos crónicos y posible afectación de la sostenibilidad laboral a largo plazo.
+
+
+
 ## **2\. Análisis del problema \- TME lumbar en odontológos**
 
  **Tabla l**
