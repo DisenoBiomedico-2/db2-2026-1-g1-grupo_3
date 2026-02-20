@@ -26,18 +26,18 @@ Considera que la ergonomía es fundamental para la sostenibilidad de la práctic
 
 # Indagación Social de TME en odontólogos zona lumbar (síntesis de respuestas)
 
-# **ENTREVISTA 2: Dr. Diego Zambrano**
+# ENTREVISTA 2: Dr. Diego Zambrano
 
-## **Información cruda** 
+## Información cruda 
 
-### **1\. Contexto laboral**
+### 1\. Contexto laboral
 
 * Edad: 50 años  
 * Experiencia: 25 años  
 * Jornada laboral: 7 horas diarias  
 * Procedimientos prolongados: casi a diario.
 
-### **2\. Posturas y carga física**
+### 2\. Posturas y carga física
 
 * Mantiene posturas muy estáticas.
 
@@ -49,13 +49,13 @@ Considera que la ergonomía es fundamental para la sostenibilidad de la práctic
   * Silla convencional → genera más dolor.  
   * Silla de montar → mejora postura y disminuye molestias.
 
-### **3\. Afectaciones en la salud**
+### 3\. Afectaciones en la salud
 
 * Presenta dolores musculares y esqueléticos.  
 * Reconoce que la ergonomía impacta directamente la columna vertebral.  
 * Considera que una mejor postura reduce afectaciones.
 
-### **4\. Impacto en productividad**
+### 4\. Impacto en productividad
 
 * No siente que la fatiga afecte su concentración.  
 * Ha reducido su carga laboral con los años:  
@@ -64,16 +64,16 @@ Considera que la ergonomía es fundamental para la sostenibilidad de la práctic
 
 * Reconoce la necesidad de ajuste laboral con el paso del tiempo.
 
-### **5\. Propuestas**
+### 5\. Propuestas
 
 17. Implementación de silla de montar.  
 18. Estrategias ergonómicas como inversión en bienestar.
 
-#  **ÉNFASIS EN MOLESTIAS MUSCULOESQUELÉTICAS**
+#  ÉNFASIS EN MOLESTIAS MUSCULOESQUELÉTICAS
 
-## **Principales hallazgos**
+## Principales hallazgos
 
-### **Zonas más afectadas**
+### Zonas más afectadas
 
 * Dr. Moreno:  
   * Parte media de la columna (zona dorsal)
@@ -82,20 +82,20 @@ Considera que la ergonomía es fundamental para la sostenibilidad de la práctic
   * Espalda baja (zona lumbar)  
   * Glúteos
 
-### ** Tipo de riesgo ergonómico identificado**
+### Tipo de riesgo ergonómico identificado
 
 * Posturas estáticas prolongadas  
 * Inclinación anterior del tronco  
 * Procedimientos de larga duración (hasta 4.5 horas)  
 * Permanencia sentada sin cambios posturales
 
-### ** Factores agravantes**
+###  Factores agravantes
 
 * Temporadas de alta demanda  
 * Procedimientos estéticos prolongados  
 * Silla convencional sin soporte adecuado
 
-### ** Consecuencias potenciales (implícitas)**
+### Consecuencias potenciales (implícitas)
 
 * Sobrecarga muscular  
 * Riesgo de lumbalgia  
@@ -104,7 +104,7 @@ Considera que la ergonomía es fundamental para la sostenibilidad de la práctic
 
  El profesional con mayor experiencia muestra mayor conciencia del desgaste acumulativo y ha tomado decisiones para proteger su salud.
 
-## **Relación ergonomía – sostenibilidad**
+## Relación ergonomía – sostenibilidad
 
 Ambos reconocen que:
 
