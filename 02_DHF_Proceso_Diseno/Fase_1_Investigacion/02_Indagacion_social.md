@@ -1,8 +1,8 @@
 # **Indagación Social de TME en odontólogos zona lumbar** 
 
-# **Entrevista 1 – Dr. Moreno**
+# **Entrevista 1 – Dra. Angely Moreno**
 
-La Dra.Angely Moreno tiene 35 años y cuenta con 10 años de experiencia en la práctica odontológica clínica. Atiende pacientes en promedio 8 horas diarias. Realiza procedimientos prolongados de más de una hora con frecuencia, especialmente diseños de sonrisa en resina directa, los cuales pueden durar entre 4 y 4 horas y media continuas. Estos procedimientos los realiza una o dos veces por semana, aunque en temporadas altas pueden presentarse casi todos los días.
+La Dra. Angely Moreno tiene 35 años y cuenta con 10 años de experiencia en la práctica odontológica clínica. Atiende pacientes en promedio 8 horas diarias. Realiza procedimientos prolongados de más de una hora con frecuencia, especialmente diseños de sonrisa en resina directa, los cuales pueden durar entre 4 y 4 horas y media continuas. Estos procedimientos los realiza una o dos veces por semana, aunque en temporadas altas pueden presentarse casi todos los días.
 
 Durante su jornada laboral manifiesta que mantiene posturas estáticas y forzadas, describiendo su posición como “encorvada” o “en curva” durante largos periodos. Indica que en temporadas de alta demanda siente mayor cansancio, principalmente en la parte media de la columna. Considera que su silla actual es buena y le facilita el trabajo, pero reconoce que permanece inclinada muchas horas, lo que resulta incómodo. Sugiere que un respaldo más cómodo podría mejorar su postura y evitar tanta inclinación.
 
@@ -12,7 +12,7 @@ Respecto a la ergonomía y tecnología, considera importante mantenerse a la van
 
 # **Entrevista 2 – Dr. Diego Zambrano**
 
-El Dr. Diego Zambrano tiene 50 años y 25 años de experiencia en la práctica odontológica clínica. Atiende pacientes aproximadamente 7 horas al día. Realiza procedimientos prolongados de más de una hora casi a diario.
+El Dr. Diego Zambrano tiene 50 años de edad y 25 años de experiencia en la práctica odontológica clínica. Atiende pacientes aproximadamente 7 horas al día. Realiza procedimientos prolongados de más de una hora casi a diario.
 
 Durante su jornada laboral mantiene posturas muy estáticas por periodos prolongados. Señala que las zonas del cuerpo más afectadas son la espalda baja y los glúteos. En relación con el diseño del sillón odontológico, indica que en algunos consultorios se utilizan sillas de montar, similares a las de caballo, las cuales considera muy prácticas. En cambio, menciona que la silla convencional resulta incómoda y genera más dolor al permanecer sentado durante tanto tiempo.
 
@@ -80,20 +80,20 @@ Desde su experiencia, considera que la implementación de la silla de montar es 
   * Espalda baja (zona lumbar)  
   * Glúteos
 
-### **🔹 Tipo de riesgo ergonómico identificado**
+### ** Tipo de riesgo ergonómico identificado**
 
 * Posturas estáticas prolongadas  
 * Inclinación anterior del tronco  
 * Procedimientos de larga duración (hasta 4.5 horas)  
 * Permanencia sentada sin cambios posturales
 
-### **🔹 Factores agravantes**
+### ** Factores agravantes**
 
 * Temporadas de alta demanda  
 * Procedimientos estéticos prolongados  
 * Silla convencional sin soporte adecuado
 
-### **🔹 Consecuencias potenciales (implícitas)**
+### ** Consecuencias potenciales (implícitas)**
 
 * Sobrecarga muscular  
 * Riesgo de lumbalgia  
